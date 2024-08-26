@@ -1,0 +1,3 @@
+/home/dimassaputra/Desktop/defna/build/CMakeFiles/defna.dir
+/home/dimassaputra/Desktop/defna/build/CMakeFiles/edit_cache.dir
+/home/dimassaputra/Desktop/defna/build/CMakeFiles/rebuild_cache.dir

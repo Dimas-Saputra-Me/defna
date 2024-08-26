@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/defna.dir/src/main.cpp.o -o defna 
